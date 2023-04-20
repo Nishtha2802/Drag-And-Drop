@@ -1,0 +1,35 @@
+body{
+    background:darkslateblue;
+}
+.imgBox{
+    background-image:url('download.jpg');
+    top:8px;
+    left:5px;
+    position:relative;
+    height:145px;
+    width:145px;
+    cursor:pointer;
+
+}
+
+.whiteBox{
+    height:155px;
+    width:155px;
+    margin:10px;
+    background-color:white;
+    display:inline-block;
+    border:3px  blue solid;
+}
+
+.hold{
+    border:4px red solid;
+}
+
+.dashed{
+    background:violet;
+    border-style:dashed;
+}
+
+.hide{
+    display:none;
+}
